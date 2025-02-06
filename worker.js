@@ -1,6 +1,6 @@
 async function handleRequest(request) {
   // show hello world
-  return new Response("Hello world!", {
+  return new Response("Hello world! Yay...", {
     headers: { "content-type": "text/plain" },
   });
 }
