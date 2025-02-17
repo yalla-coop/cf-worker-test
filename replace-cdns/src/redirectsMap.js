@@ -4344,7 +4344,6 @@ export default {
 	'/uploads/R2HC%20Research%20Partnership%20Brokering%20Form_0.doc': '/',
 	'/wash': '/wash-research-agenda',
 	'/wash-marketplace': '/focus-areas/wash',
-	'/wash-research-agenda': '/focus-areas/wash',
 	'/wash/cross-cutting-wash-guidance': '/focus-areas/wash',
 	'/wash/hygiene': '/focus-areas/wash',
 	'/wash/safe-water': '/focus-areas/wash',
