@@ -4345,7 +4345,6 @@ export default {
 	'/wash': '/wash-research-agenda',
 	'/wash-marketplace': '/focus-areas/wash',
 	'/wash-research-agenda': '/focus-areas/wash',
-	'/wash': '/focus-areas/wash',
 	'/wash/cross-cutting-wash-guidance': '/focus-areas/wash',
 	'/wash/hygiene': '/focus-areas/wash',
 	'/wash/safe-water': '/focus-areas/wash',
