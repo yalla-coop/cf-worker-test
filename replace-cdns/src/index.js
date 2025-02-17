@@ -18,7 +18,7 @@ export default {
 
 async function handleRequest(request) {
 	const url = new URL(request.url);
-	const domain = 'https://www.yallacooperative.site';
+	const domain = 'https://elrha.webflow.io';
 
 	// Check if the request is for an old page and redirect to the new one
 	if (redirectsMap[url.pathname]) {
