@@ -20,8 +20,6 @@ async function handleRequest(request) {
 	const url = new URL(request.url);
 	const domain = 'https://www.yallacooperative.site';
 
-	console.log(url.pathname, '<------->');
-
 	// Check if the request is for an old page and redirect to the new one
 	if (redirectsMap[url.pathname]) {
 		return Response.redirect(`${domain}${redirectsMap[url.pathname]}`, 301);
