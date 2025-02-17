@@ -8,7 +8,7 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
-import redirectsMap from './redirectsMap.js';
+import redirectsMap from '../../redirectsMap.js';
 
 export default {
 	async fetch(request, env, ctx) {
